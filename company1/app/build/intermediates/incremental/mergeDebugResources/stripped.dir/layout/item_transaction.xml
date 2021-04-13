@@ -1,0 +1,51 @@
+
+                                                   
+
+  
+
+             
+                            
+                                                            
+         
+
+
+  <LinearLayout
+          android:id="@+id/item_transaction"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:background="?attr/selectableItemBackground"
+          android:orientation="horizontal"
+          android:padding="@dimen/spacing_large" android:tag="layout/item_transaction_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+            android:id="@+id/label_timestamp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@android:color/primary_text_light"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            tools:text="2020-02-01 18:45:03" />
+
+    <TextView
+            android:id="@+id/label_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@android:color/primary_text_light"
+            android:textSize="16sp"
+            tools:text="$3.141" />
+
+    <TextView
+            android:id="@+id/label_recipient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:textColor="@android:color/secondary_text_light"
+            android:textSize="16sp"
+            tools:text="Aristotle" />
+
+  </LinearLayout>
+
+
+         

@@ -1,0 +1,172 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.company1.gpasaver"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:7:5-67
+11-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:8:5-79
+12-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:8:22-76
+13    <uses-permission android:name="android.permission.SEND_SMS" />
+13-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:9:5-67
+13-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:9:22-64
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:11:5-59:19
+20        android:allowBackup="true"
+20-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:12:13-39
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:13:13-47
+25        android:label="@string/app_name"
+25-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:14:13-45
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:15:13-58
+27        android:supportsRtl="true"
+27-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:16:13-39
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme"
+29-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:17:13-44
+30        android:usesCleartextTraffic="true" >
+30-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:18:13-48
+31        <activity android:name="com.company1.gpasaver.ViewStudentActivity" />
+31-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:20:9-22:20
+31-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:21:17-52
+32        <activity android:name="com.company1.gpasaver.current_tutors" />
+32-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:24:9-61
+32-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:24:19-49
+33
+34        <meta-data
+34-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:26:9-28:40
+35            android:name="com.google.android.gms.wallet.api.enabled"
+35-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:27:17-73
+36            android:value="true" />
+36-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:28:17-37
+37
+38        <activity android:name="com.company1.gpasaver.requestTutor" /> <!-- <activity android:name=".tutor" /> -->
+38-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:30:9-50
+38-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:30:19-47
+39        <activity
+39-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:31:9-33:63
+40            android:name="com.company1.gpasaver.MainActivity"
+40-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:32:17-45
+41            android:theme="@style/AppTheme.NoActionBar" />
+41-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:33:17-60
+42        <activity
+42-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:34:9-36:63
+43            android:name="com.company1.gpasaver.AdditionalRegisterActivity"
+43-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:35:17-59
+44            android:theme="@style/AppTheme.NoActionBar" />
+44-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:36:17-60
+45        <activity
+45-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:37:9-40:63
+46            android:name="com.company1.gpasaver.RegisterActivity"
+46-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:38:17-49
+47            android:theme="@style/AppTheme.NoActionBar" />
+47-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:40:17-60
+48        <activity
+48-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:41:9-49:20
+49            android:name="com.company1.gpasaver.LoginActivity"
+49-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:42:17-46
+50            android:theme="@style/AppTheme.NoActionBar" >
+50-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:43:17-60
+51            <intent-filter>
+51-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:44:13-48:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:45:17-69
+52-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:45:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:47:17-77
+54-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:47:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:50:9-52:63
+58            android:name="com.company1.gpasaver.ui.profile.ProfileViewer"
+58-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:51:17-57
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:52:17-60
+60        <activity
+60-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:53:9-55:63
+61            android:name="com.company1.gpasaver.ui.profile.EditProfile"
+61-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:54:17-55
+62            android:theme="@style/AppTheme.NoActionBar" />
+62-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:55:17-60
+63        <activity
+63-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:56:9-58:63
+64            android:name="com.company1.gpasaver.ui.profile.ProfileView_Real"
+64-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:57:17-60
+65            android:theme="@style/AppTheme.NoActionBar" />
+65-->C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:58:17-60
+66        <!-- Needs to be explicitly declared on P+ -->
+67        <uses-library
+67-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+68            android:name="org.apache.http.legacy"
+68-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+69            android:required="false" />
+69-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+70
+71        <activity
+71-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+72-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+73            android:exported="false"
+73-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+75
+76        <meta-data
+76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+77            android:name="com.google.android.gms.version"
+77-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+78            android:value="@integer/google_play_services_version" />
+78-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+79
+80        <service
+80-->[androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+81            android:name="androidx.room.MultiInstanceInvalidationService"
+81-->[androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+82            android:exported="false" />
+82-->[androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+83
+84        <provider
+84-->[com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+85            android:name="com.squareup.picasso.PicassoProvider"
+85-->[com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+86            android:authorities="com.company1.gpasaver.com.squareup.picasso"
+86-->[com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+87            android:exported="false" />
+87-->[com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+88        <provider
+88-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+89            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+90            android:authorities="com.company1.gpasaver.lifecycle-process"
+90-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+91            android:exported="false"
+91-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+92            android:multiprocess="true" />
+92-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+93    </application>
+94
+95</manifest>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+                                                      
+                                                  
+
+ 
+            
+                           
+                                                         
+     
+        
+
+ <androidx.coordinatorlayout.widget.CoordinatorLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent" android:tag="layout/fragment_home_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+   <com.google.android.material.appbar.AppBarLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:theme="@style/AppTheme.AppBarOverlay"/>
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <ProgressBar
+         android:id="@+id/progress_people"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:tag="binding_1"                         
+        />
+
+        <TextView
+         android:id="@+id/label_status"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:tag="binding_2"                     
+                                                      
+        />
+
+       <androidx.recyclerview.widget.RecyclerView
+           android:id="@+id/list_people"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:clipToPadding="false"
+           android:scrollbars="vertical"
+           app:layout_behavior="@string/appbar_scrolling_view_behavior"
+           android:tag="binding_3"                         
+           tools:listitem="@layout/item_users"
+       />
+   </LinearLayout>
+ </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+         

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#F44336">
+
+    <TextView
+            android:id="@+id/pop_up_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_margin="30dp"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:textAlignment="center"
+            android:text="@string/popup_cancel_tutor"/>
+
+    <Button
+            android:id="@+id/current_tutors_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@id/pop_up_message"
+            android:layout_below="@id/pop_up_message"
+            android:text="@string/no" />
+
+    <Button
+            android:id="@+id/current_tutors_remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pop_up_message"
+            android:layout_alignEnd="@id/pop_up_message"
+            android:text="@string/yes" />
+
+</RelativeLayout>

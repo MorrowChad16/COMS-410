@@ -1,0 +1,428 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\db6da0c6e2a915d425660f9b76b2e058\databinding-adapters-4.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\80d4af232a41a7907fb3a9c517448399\databinding-runtime-4.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\cf1f9a69111fe5c0f0060179bd382435\jetified-androidbootstrap-2.3.2\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\01f028be4364ab76ea251a81409ff078\navigation-ui-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e0bf06bd15f8f1c53e4ef1a6ebae20ed\material-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\9e241ade4feea143d6efde1061ddefb1\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\02fc910b688e417c120ac8502bbbe7df\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\39b3865be3c51aec04191cdc92c38e10\navigation-fragment-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a77d8891d0cabb4fec16bb2149d8566f\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:18.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5cc53702949c83e05d46f4cb1f42320c\jetified-play-services-wallet-18.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ddca2cbb3122208eae6d5280c307c01e\wear-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c4a63fe64a0fe0c81e5d39856fc3f8f8\jetified-glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\fc918ccd6dc90744086ba959094b71c5\jetified-viewpager2-1.0.0-beta04\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\0d542ac2dff65d4715755469a5c85f9b\jetified-play-services-identity-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\17bd45adc23ab917eb4085921e56fc0b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5bbf8db580799ffcb796ec2568db7ac3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\87d0c49b85e22ccd837439a2ada3629c\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5df0dacaa74ff2e9465a55ad1ff70297\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\355ad34104d74667ec850f5d863bf6a4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dff055fd84d579b51a9e843a3c6aed7b\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\96959dbcaea7c1ca173a4723abc37d23\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f963f74c06814642512a0f6cc619237f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7a4b3813c751c56b36814991e84748b7\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife:10.2.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\6f821bd83be65720b10293ffcf490f95\jetified-butterknife-10.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\9532c8758b634b8f1509ca3709ba7b10\jetified-butterknife-runtime-10.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5f544c9055cb4aecaf82b59a4084e4db\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5545a1297d3028eb86c2f59afede00ba\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\2fcf65548dad3afab49272d052f192e9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\82b4cef4dab83589862c873cf230c3d8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\45e8f39e68bddf8600427caeb9af95f5\navigation-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\52820f3d5dc9e886ce4f98bb00309a58\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d81354f2e2e1ada08eee4fd246595822\recyclerview-1.1.0-beta04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e2fac41b6b19acf2156cad0d08c4f2b9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d8fd54d31e223ccf66279b49cbe0b6c1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\20a072d866411b406a98a0c861d1c9d7\navigation-common-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\64071376593c268b71ceff7e56b1035f\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ced7a459773ac14d1ea9ddf9384dc663\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7854f3b110dc99499540a519ae4e083a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c209b2459c49ba566bd92dc1efcf62ab\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\694d2db9b588c994c276ba949c37623d\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:17:1-30:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5739dbc2d1e5581ec5c936b7a5ba561c\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f2eeb799eb3f9d2c2f11fb25c626f81e\jetified-circleimageview-3.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\588ca9a86b83f1297865c344973856cb\jetified-viewbinding-4.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a8f3d3128d3d403be11f2566fccfef74\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\28a83dfaa48931819085f8fa49017b10\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\b1cd2ffcf4dff9ba243c3dadcab815fd\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d793c12ed4f4ef75215d5aa857c93d1\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\74034374728b8d38fc0150c71b25cea9\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\b63786e1ee350d65a0b4084bdf5fcc11\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\1237bf9e35cab3ca49a2ee83a8755c28\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d34a31ee2e39ae0227ee1a2f80be0a61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8f68be36264d5864be088a22725fdfb5\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ba09c2b37b2434e82015fe41fff22bea\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\3068a826ecd18ee85eb0ce0da004eae7\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dc93778c97333d378908611018a364f5\jetified-gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\2ae42694ed8b1eb5e6487cc4ca63f786\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c135202ad83b99a35e01d18d129d5999\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4e74c8d2c846421439b6b276f7c28a17\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\43a45535a51738f421fbc4c1a2411916\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:4:9-40
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:3:9-55
+	android:versionCode
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:11:5-59:19
+MERGED from [com.google.android.material:material:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e0bf06bd15f8f1c53e4ef1a6ebae20ed\material-1.1.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e0bf06bd15f8f1c53e4ef1a6ebae20ed\material-1.1.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a77d8891d0cabb4fec16bb2149d8566f\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a77d8891d0cabb4fec16bb2149d8566f\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c4a63fe64a0fe0c81e5d39856fc3f8f8\jetified-glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c4a63fe64a0fe0c81e5d39856fc3f8f8\jetified-glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\0d542ac2dff65d4715755469a5c85f9b\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\0d542ac2dff65d4715755469a5c85f9b\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\17bd45adc23ab917eb4085921e56fc0b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\17bd45adc23ab917eb4085921e56fc0b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7854f3b110dc99499540a519ae4e083a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7854f3b110dc99499540a519ae4e083a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\694d2db9b588c994c276ba949c37623d\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\694d2db9b588c994c276ba949c37623d\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f2eeb799eb3f9d2c2f11fb25c626f81e\jetified-circleimageview-3.0.1\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f2eeb799eb3f9d2c2f11fb25c626f81e\jetified-circleimageview-3.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dc93778c97333d378908611018a364f5\jetified-gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dc93778c97333d378908611018a364f5\jetified-gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:16:13-39
+	android:label
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:14:13-45
+	android:roundIcon
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:15:13-58
+	android:icon
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:13:13-47
+	android:allowBackup
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:12:13-39
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:17:13-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:18:13-48
+activity#com.company1.gpasaver.ViewStudentActivity
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:21:17-52
+activity#com.company1.gpasaver.current_tutors
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:24:19-49
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:value
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:28:17-37
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:27:17-73
+activity#com.company1.gpasaver.requestTutor
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:30:19-47
+activity#com.company1.gpasaver.MainActivity
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:31:9-33:63
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:32:17-45
+activity#com.company1.gpasaver.AdditionalRegisterActivity
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:34:9-36:63
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:36:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:35:17-59
+activity#com.company1.gpasaver.RegisterActivity
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:37:9-40:63
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:40:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:38:17-49
+activity#com.company1.gpasaver.LoginActivity
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:41:9-49:20
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:43:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:42:17-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.company1.gpasaver.ui.profile.ProfileViewer
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:50:9-52:63
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:52:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:51:17-57
+activity#com.company1.gpasaver.ui.profile.EditProfile
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:53:9-55:63
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:55:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:54:17-55
+activity#com.company1.gpasaver.ui.profile.ProfileView_Real
+ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:56:9-58:63
+	android:theme
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:58:17-60
+	android:name
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml:57:17-60
+uses-sdk
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\db6da0c6e2a915d425660f9b76b2e058\databinding-adapters-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\db6da0c6e2a915d425660f9b76b2e058\databinding-adapters-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\80d4af232a41a7907fb3a9c517448399\databinding-runtime-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\80d4af232a41a7907fb3a9c517448399\databinding-runtime-4.0.1\AndroidManifest.xml:22:5-44
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\cf1f9a69111fe5c0f0060179bd382435\jetified-androidbootstrap-2.3.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.2] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\cf1f9a69111fe5c0f0060179bd382435\jetified-androidbootstrap-2.3.2\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\01f028be4364ab76ea251a81409ff078\navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\01f028be4364ab76ea251a81409ff078\navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e0bf06bd15f8f1c53e4ef1a6ebae20ed\material-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e0bf06bd15f8f1c53e4ef1a6ebae20ed\material-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\9e241ade4feea143d6efde1061ddefb1\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\9e241ade4feea143d6efde1061ddefb1\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\02fc910b688e417c120ac8502bbbe7df\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\02fc910b688e417c120ac8502bbbe7df\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\39b3865be3c51aec04191cdc92c38e10\navigation-fragment-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\39b3865be3c51aec04191cdc92c38e10\navigation-fragment-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a77d8891d0cabb4fec16bb2149d8566f\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a77d8891d0cabb4fec16bb2149d8566f\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5cc53702949c83e05d46f4cb1f42320c\jetified-play-services-wallet-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5cc53702949c83e05d46f4cb1f42320c\jetified-play-services-wallet-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ddca2cbb3122208eae6d5280c307c01e\wear-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ddca2cbb3122208eae6d5280c307c01e\wear-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c4a63fe64a0fe0c81e5d39856fc3f8f8\jetified-glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c4a63fe64a0fe0c81e5d39856fc3f8f8\jetified-glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\fc918ccd6dc90744086ba959094b71c5\jetified-viewpager2-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\fc918ccd6dc90744086ba959094b71c5\jetified-viewpager2-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\0d542ac2dff65d4715755469a5c85f9b\jetified-play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\0d542ac2dff65d4715755469a5c85f9b\jetified-play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\17bd45adc23ab917eb4085921e56fc0b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\17bd45adc23ab917eb4085921e56fc0b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5bbf8db580799ffcb796ec2568db7ac3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5bbf8db580799ffcb796ec2568db7ac3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\87d0c49b85e22ccd837439a2ada3629c\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\87d0c49b85e22ccd837439a2ada3629c\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5df0dacaa74ff2e9465a55ad1ff70297\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5df0dacaa74ff2e9465a55ad1ff70297\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\355ad34104d74667ec850f5d863bf6a4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\355ad34104d74667ec850f5d863bf6a4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dff055fd84d579b51a9e843a3c6aed7b\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dff055fd84d579b51a9e843a3c6aed7b\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\96959dbcaea7c1ca173a4723abc37d23\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\96959dbcaea7c1ca173a4723abc37d23\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f963f74c06814642512a0f6cc619237f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f963f74c06814642512a0f6cc619237f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7a4b3813c751c56b36814991e84748b7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7a4b3813c751c56b36814991e84748b7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\6f821bd83be65720b10293ffcf490f95\jetified-butterknife-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\6f821bd83be65720b10293ffcf490f95\jetified-butterknife-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\9532c8758b634b8f1509ca3709ba7b10\jetified-butterknife-runtime-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\9532c8758b634b8f1509ca3709ba7b10\jetified-butterknife-runtime-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5f544c9055cb4aecaf82b59a4084e4db\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5f544c9055cb4aecaf82b59a4084e4db\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5545a1297d3028eb86c2f59afede00ba\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5545a1297d3028eb86c2f59afede00ba\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\2fcf65548dad3afab49272d052f192e9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\2fcf65548dad3afab49272d052f192e9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\82b4cef4dab83589862c873cf230c3d8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\82b4cef4dab83589862c873cf230c3d8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\45e8f39e68bddf8600427caeb9af95f5\navigation-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\45e8f39e68bddf8600427caeb9af95f5\navigation-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\52820f3d5dc9e886ce4f98bb00309a58\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\52820f3d5dc9e886ce4f98bb00309a58\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d81354f2e2e1ada08eee4fd246595822\recyclerview-1.1.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d81354f2e2e1ada08eee4fd246595822\recyclerview-1.1.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e2fac41b6b19acf2156cad0d08c4f2b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e2fac41b6b19acf2156cad0d08c4f2b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d8fd54d31e223ccf66279b49cbe0b6c1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d8fd54d31e223ccf66279b49cbe0b6c1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\20a072d866411b406a98a0c861d1c9d7\navigation-common-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\20a072d866411b406a98a0c861d1c9d7\navigation-common-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\64071376593c268b71ceff7e56b1035f\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\64071376593c268b71ceff7e56b1035f\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ced7a459773ac14d1ea9ddf9384dc663\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ced7a459773ac14d1ea9ddf9384dc663\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8ac23c26c7dcc5d486fed317d2b53c3d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7854f3b110dc99499540a519ae4e083a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\7854f3b110dc99499540a519ae4e083a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c209b2459c49ba566bd92dc1efcf62ab\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c209b2459c49ba566bd92dc1efcf62ab\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\694d2db9b588c994c276ba949c37623d\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\694d2db9b588c994c276ba949c37623d\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5739dbc2d1e5581ec5c936b7a5ba561c\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5739dbc2d1e5581ec5c936b7a5ba561c\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f2eeb799eb3f9d2c2f11fb25c626f81e\jetified-circleimageview-3.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\f2eeb799eb3f9d2c2f11fb25c626f81e\jetified-circleimageview-3.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\588ca9a86b83f1297865c344973856cb\jetified-viewbinding-4.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\588ca9a86b83f1297865c344973856cb\jetified-viewbinding-4.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a8f3d3128d3d403be11f2566fccfef74\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\a8f3d3128d3d403be11f2566fccfef74\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\28a83dfaa48931819085f8fa49017b10\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\28a83dfaa48931819085f8fa49017b10\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\de74f26688ad356f07afe08f5f2e2f25\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\b1cd2ffcf4dff9ba243c3dadcab815fd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\b1cd2ffcf4dff9ba243c3dadcab815fd\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d793c12ed4f4ef75215d5aa857c93d1\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d793c12ed4f4ef75215d5aa857c93d1\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\74034374728b8d38fc0150c71b25cea9\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\74034374728b8d38fc0150c71b25cea9\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\b63786e1ee350d65a0b4084bdf5fcc11\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\b63786e1ee350d65a0b4084bdf5fcc11\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\1237bf9e35cab3ca49a2ee83a8755c28\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\1237bf9e35cab3ca49a2ee83a8755c28\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d34a31ee2e39ae0227ee1a2f80be0a61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d34a31ee2e39ae0227ee1a2f80be0a61\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8f68be36264d5864be088a22725fdfb5\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\8f68be36264d5864be088a22725fdfb5\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ba09c2b37b2434e82015fe41fff22bea\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ba09c2b37b2434e82015fe41fff22bea\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\3068a826ecd18ee85eb0ce0da004eae7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\3068a826ecd18ee85eb0ce0da004eae7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dc93778c97333d378908611018a364f5\jetified-gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\dc93778c97333d378908611018a364f5\jetified-gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\2ae42694ed8b1eb5e6487cc4ca63f786\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\2ae42694ed8b1eb5e6487cc4ca63f786\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c135202ad83b99a35e01d18d129d5999\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\c135202ad83b99a35e01d18d129d5999\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4e74c8d2c846421439b6b276f7c28a17\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4e74c8d2c846421439b6b276f7c28a17\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\43a45535a51738f421fbc4c1a2411916\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\43a45535a51738f421fbc4c1a2411916\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\morro\Documents\College\COMS410\company1\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\ac7407cd14ac423d4ceaf8288533a2df\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\e9af12053fbbbcd4c322fb00f6706570\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\5b384d348ade37cfc4cf6b9238973884\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\369afbff5776f8a063be23cf742eac45\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\d3979ec71ab45e7f58ad65e5c3b6ba89\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\morro\.gradle\caches\transforms-2\files-2.1\4d37963c666d0a0e40b35637215b1c39\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F44336"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="com.company1.gpasaver.RegisterActivity">
+
+
+
+    <!--  The back button to navigate to the login page  -->
+
+    <ImageButton
+            android:id="@+id/btnRegisterLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_baseline_arrow_back_24"
+
+
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- FirstName widget -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etUniversity"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="@string/first_name"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapBrand="info"
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.10"
+            app:roundedCorners="true" />
+
+    <!--  LastName Widget   -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etLname"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="@string/last_name"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapBrand="info"
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.20"
+            app:roundedCorners="true" />
+
+       <!-- UserName Widget    -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etGpa"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="@string/username"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapBrand="info"
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.30"
+            app:roundedCorners="true" />
+
+
+
+       <!-- Email Widget    -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="Email"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapSize="lg"
+
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.40"
+            app:roundedCorners="true" />
+
+
+
+           <!--  The password widget  -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapSize="lg"
+
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.50"
+            app:roundedCorners="true" />
+
+      <!-- Confirm Password widget    -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etConfirmPassword"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="26dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="@string/confirm_password"
+
+
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.60"
+            app:roundedCorners="true" />
+
+    <!-- School widget    -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etUni"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="26dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="School"
+            android:inputType="text"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.70"
+            app:roundedCorners="true" />
+
+    <!-- Major widget    -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etmajor"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="26dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint="Major"
+            android:inputType="text"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.80"
+            app:roundedCorners="true" />
+
+            <!--  Account Type Widget   -->
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/account_type"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="@id/etConfirmPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="parent"
+            app:layout_constraintVertical_bias="0.4"
+            app:layout_constraintHorizontal_bias="0.0"
+
+            />
+
+
+          <!--  Tutor checkbox Widget -->
+    <CheckBox
+            android:id="@+id/tutorCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@android:color/white"
+            android:checked="false"
+            android:text="Tutor"
+
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.48"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.873" />
+
+
+
+         <!--  Student checkbox  Widget  -->
+    <CheckBox
+            android:id="@+id/studentCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@android:color/white"
+            android:checked="false"
+            android:text="@string/student"
+            android:textColor="@android:color/white"
+            android:textSize="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.92"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.873" />
+
+
+             <!-- The create account button   -->
+    <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/btnAdditionalRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+
+            android:background="#FF5722"
+
+            android:elevation="3dp"
+
+            android:text="@string/add_classes"
+            android:textColor="@android:color/background_dark"
+
+            app:bootstrapBrand="warning"
+            app:bootstrapSize="xl"
+            app:layout_constraintBottom_toBottomOf="@id/etConfirmPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="parent"
+            app:layout_constraintVertical_bias="0.219"
+
+            app:roundedCorners="true" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

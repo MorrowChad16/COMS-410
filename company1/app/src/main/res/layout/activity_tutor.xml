@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tutor"
+    android:background="@drawable/tutor_bg"
+    >
+
+    <TextView
+            android:id="@+id/imageCourse"
+            android:layout_width="72dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="43dp"
+            android:layout_marginEnd="69dp"
+            android:layout_marginBottom="306dp"
+            android:text="Course"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/spinnerCourse"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageRate" />
+
+    <TextView
+            android:id="@+id/imageRate"
+            android:layout_width="54dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="56dp"
+            android:layout_marginEnd="73dp"
+            android:layout_marginBottom="43dp"
+            android:text="Rate"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/imageCourse"
+            app:layout_constraintEnd_toStartOf="@+id/editRate"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageGPA" />
+
+    <TextView
+            android:id="@+id/imageGPA"
+            android:layout_width="54dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="73dp"
+            android:text="GPA"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toStartOf="@+id/editGPA"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageViewID" />
+
+    <TextView
+            android:id="@+id/imageViewID"
+            android:layout_width="54dp"
+            android:layout_height="32dp"
+            android:layout_marginTop="136dp"
+            android:layout_marginEnd="80dp"
+            android:text="ID"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toStartOf="@+id/editID"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textTutor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+            android:id="@+id/btnSubmitTutor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="160dp"
+            android:layout_marginBottom="68dp"
+            android:text="Submit"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    <Spinner
+            android:id="@+id/spinnerCourse"
+            android:layout_width="271dp"
+            android:layout_height="41dp"
+            android:layout_marginTop="43dp"
+            android:layout_marginBottom="306dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editRate" />
+
+    <EditText
+            android:id="@+id/editRate"
+            android:layout_width="277dp"
+            android:layout_height="46dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="43dp"
+            android:ems="10"
+            android:inputType="number"
+            app:layout_constraintBottom_toTopOf="@+id/spinnerCourse"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editGPA" />
+
+    <EditText
+            android:id="@+id/editGPA"
+            android:layout_width="277dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="40dp"
+            android:ems="10"
+            android:inputType="number"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editID" />
+
+    <EditText
+            android:id="@+id/editID"
+            android:layout_width="277dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="124dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

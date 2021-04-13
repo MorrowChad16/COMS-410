@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".FindTutorActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appBarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <TextView
+            android:id="@+id/current_tutors_instruction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/curent_tutors_instructions"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0" />
+
+    <ListView
+            android:id="@+id/listview"
+            android:layout_width="407dp"
+            android:layout_height="600dp"
+            android:layout_marginEnd="1dp"
+            android:visibility="visible"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/current_tutors_instruction" />
+
+    <Spinner
+            android:id="@+id/spinnerCourse"
+            android:layout_width="208dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="38dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="69dp"
+            android:layout_marginBottom="48dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnRefresh"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/listview"
+            app:layout_constraintVertical_bias="0.468" />
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/btnRefresh"
+            android:layout_width="wrap_content"
+            android:layout_height="39dp"
+            android:layout_margin="5dp"
+
+            android:layout_marginStart="304dp"
+            android:layout_marginTop="60dp"
+
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="112dp"
+            android:background="#f05924"
+            android:text="Refresh "
+            android:textColor="@android:color/white"
+            app:bootstrapBrand="success"
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/listview"
+            app:roundedCorners="true" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

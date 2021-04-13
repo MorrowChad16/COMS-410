@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_users.xml",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_transaction.xml",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_tutor.xml",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_request.xml",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_request.xml"
+    }
+]

@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">GPASaver</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gpa">GPA</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password"><font size="20">Confirm Password  </font></string>
+    <string name="account_type"><font size="20">Account Type:</font></string>
+
+    <string name="add_classes"><font size="20">Add classes </font></string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="requests">Requests</string>
+    <string name="menu_tutor">Tutor</string>
+    <string name="menu_request_tutor">Request Tutor</string>
+    <string name="menu_review">Review</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Sign Out</string>
+    <string name="click_to_accept_or_reject_request_from">Click to Accept or Reject request from:</string>
+    <string name="image_of_requesting_user">Image of requesting user</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="student">Student</string>
+
+
+    <!-- Google play -->
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="buy_with_googlepay_button_content_description">Buy with Google Pay</string>
+
+    <string name="store_name" translatable="false">Auto T-Shirt Shop</string>
+
+    <!-- Test stuff -->
+    <string name="channel_name">Payment Channel</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="notification_title" translatable="false">Account top up</string>
+    <string name="notification_text">Your account balance in close to zero. Top it up now.</string>
+    <string name="pay_other_method">Top-up using a different method</string>
+
+    <!-- Test stuff -->
+    <string name="googlepay_status_unavailable">Unfortunately, Google Pay is not available on this device.</string>
+    <string name="payments_show_name">Successfully received payment data for %s!</string>
+    <string name="gateway_replace_name_example">"Gateway name set to \"example\" - please modify Constants.java and replace it with your own gateway."</string>
+    <string name="checkout_item_description">Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit_changes">Submit Changes</string>
+    <string name="payment_method">Payment method</string>
+    <string name="payment_history">Payment history</string>
+    <string name="change_your_password">Change your password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="new_password_verification">New Password Verification</string>
+
+    <!-- Strings for updating user information on the backend-->
+    <string name="update_user_balance">http://coms–510–01.cs.iastate.edu:80/Update_balance.php</string>
+    <string name="registration">http://coms–510–01.cs.iastate.edu:80/registration.php</string>
+    <string name="update_user_password">http://coms–510–01.cs.iastate.edu:80/update_user_password.php</string>
+    <string name="update_user_users">http://coms–510–01.cs.iastate.edu:80/update_user_users.php</string>
+    <string name="update_user_credentials">http://coms–510–01.cs.iastate.edu:80/update_user_credentials.php</string>
+
+    <string name="title_activity_view_student">ViewStudent</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <string name="popup_cancel_tutor">Click Remove to remove selected tutor.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="curent_tutors_instructions">To Remove A Tutor Click On Their Information And Follow The Popup</string>
+
+
+</resources>

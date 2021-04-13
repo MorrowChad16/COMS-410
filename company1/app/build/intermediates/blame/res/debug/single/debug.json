@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_power_settings_new_24.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_baseline_power_settings_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_settings_.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings_.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_foreground.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\app_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_settings_.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_settings_.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_settings__round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\ic_settings__round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boy.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\boy.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_settings__round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_settings__round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_buy_with_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\buy_with_googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_request_model.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\request_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_settings_.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_settings_.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_settings__round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings__round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_settings__round.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_settings__round.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_student.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_view_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_request_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradientbackground.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\search_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_settings__round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_settings__round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_request_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\request_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_background_image.9.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_background_image.9.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_settings__round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\ic_settings__round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_share.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logout_round.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\logout_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tutor_list.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_tutor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_settings_.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\ic_settings_.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_no_shadow_background_image_pressed.9.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_no_shadow_background_image_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logout.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hourglass_full_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_hourglass_full_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_settings_.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_settings_.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_chat_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v21\\ic_chat_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listview.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logout_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\logout_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_price_button_background_selected.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\price_button_background_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-hdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\cancel_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ts_10_11019a.jpg.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\ts_10_11019a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_no_shadow_background_image_focused.9.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_no_shadow_background_image_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v24_buy_with_googlepay_button_content.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v24\\buy_with_googlepay_button_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_additional_register.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_additional_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_viewstudent.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\layout_viewstudent.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_googlepay_button.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\googlepay_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_tutors.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\view_tutors.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_top_up_account.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\notification_top_up_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gpa.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_gpa.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_price_button_background.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\price_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logout_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\logout_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_accountsetup.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_accountsetup.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_requests.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_buy_with_googlepay_button.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\buy_with_googlepay_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile_viewer.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\profile_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_myprofile.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_school_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_school_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_overlay.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\app.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_current_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\popup_current_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tools.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_round.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v21\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_request.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logout_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\logout_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_background.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_border_edittext.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\border_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_current_tutors.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_current_tutors.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\menu_menus.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\menu\\menus.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_users.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\item_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_tutor_bg.jpg.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v21\\tutor_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v21\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rate_review_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_rate_review_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logout.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-anydpi-v26\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logout_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\logout_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_archive_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_archive_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logout_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\logout_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_settings_.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\ic_settings_.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logout.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\raw_tshirts.json.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\raw\\tshirts.json"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tutor_new.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_tutor_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_course.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v24_googlepay_button_content.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi-v24\\googlepay_button_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_class_data_layout.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\class_data_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_no_shadow_background_image.9.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_no_shadow_background_image.9.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_phone_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-v21\\ic_phone_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account_icon.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\account_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_tutor.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_find_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logout.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_payment_history.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\layout\\fragment_payment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-mdpi\\app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_round.png.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\mipmap-xhdpi\\app_round.png"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_googlepay_button_no_shadow_background.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable-mdpi\\googlepay_button_no_shadow_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\morro\\Documents\\College\\COMS410\\company1\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_arrow_right_24.xml"
+    }
+]

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F44336"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="20dp"
+        tools:context="com.company1.gpasaver.AdditionalRegisterActivity">
+
+
+    <!--  The back button to navigate to the login page  -->
+
+    <ImageButton
+            android:id="@+id/btnRegisterLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_baseline_arrow_back_24"
+
+
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+
+       <!--  Major widget   -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etRate"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint=" what is your payment rate?"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapBrand="info"
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.14"
+            app:roundedCorners="true" />
+
+      <!--  Gpa widget   -->
+    <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/etGpa"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginEnd="54dp"
+            android:background="@android:color/white"
+            android:hint=" Your GPA ?"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:textAlignment="textStart"
+
+            app:bootstrapBrand="info"
+            app:bootstrapSize="lg"
+            app:layout_constraintBottom_toBottomOf="parent"
+
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.25"
+            app:roundedCorners="true" />
+
+           <!-- courses You what to Tutor    -->
+
+    <TextView
+            android:id="@+id/tvSelectCourse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select courses you want to tutor"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            app:layout_constraintVertical_bias="0.05"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/etGpa" />
+
+
+       <!--  Drop down for courses    -->
+
+    <androidx.core.widget.NestedScrollView
+            android:id="@+id/scroll"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvSelectCourse"
+            app:layout_constraintVertical_bias="0.05"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:fillViewport="true"
+            android:layout_gravity="fill_vertical"
+
+            >
+
+        <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rView"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                />
+
+    </androidx.core.widget.NestedScrollView>
+
+
+
+    <!-- The create account button   -->
+    <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/btnAdditionalRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FF5722"
+            android:text="@string/register"
+            android:textColor="@android:color/background_dark"
+
+            app:bootstrapBrand="warning"
+            app:bootstrapSize="xl"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/scroll"
+
+            app:layout_constraintVertical_bias="0.05"
+            app:roundedCorners="true" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
